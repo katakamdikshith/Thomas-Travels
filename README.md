@@ -23,18 +23,7 @@ Technologies Used
 - Object-Oriented Programming (OOP)
 - Eclipse IDE
 - Java Arrays
-
-Project Structure
-
-ThomasTravels/
-├── src/
-│   └── com/
-│       └── thomasTravels/
-│           ├── Driver.java
-│           ├── Travel.java
-│           └── TestDriver.java
-└── README.md
-
+- 
 Class Descriptions
 
 1. Driver.java
